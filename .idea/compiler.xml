@@ -19,6 +19,10 @@
       <module name="Coffee_Machine.Topics-Enums_in_Java-Hidden_enumeration.main" target="11" />
       <module name="Coffee_Machine.Topics-Enums_in_Java-Reasons_to_use_enum.main" target="11" />
       <module name="Coffee_Machine.Topics-Enums_in_Java-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Danger_levels.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Planets_of_the_solar_system.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Robot_control.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Instance_methods-Counter.main" target="11" />
       <module name="Coffee_Machine.Topics-Instance_methods-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Introduction_to_Java-Hello.main" target="11" />
